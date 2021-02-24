@@ -28,4 +28,4 @@ Daar waar mogelijk trekken we graag samen op met VNG Realisatie. Zo volgen we de
 
 ## Achtergrond initiatief
 
-Open Sociaal Domein is ontstaan op initiatief van [Solviteers Software](https://solviteerssoftware.nl/software/common-ground). Met een gezonde (of wellicht over)dosis idealisme proberen we nieuwe en open standaarden op basis van de Common Ground filosifie te realiseren. Dat kunnen we niet alleen, daarom werken we samen met andere leveranciers. Dat doen we met een uitgestoken hand en met een open vizier. Om de kwaliteit van informatievoorziening te verbeteren, en het tijdrovende en foutgevoelige handwerk te reduceren.
+Open Sociaal Domein is ontstaan op initiatief van [Solviteers Software](https://solviteerssoftware.nl/software/common-ground). Met een gezonde (of wellicht over)dosis idealisme proberen we nieuwe en open standaarden op basis van de Common Ground filosofie te realiseren. Dat kunnen we niet alleen, daarom werken we samen met andere leveranciers. Dat doen we met een uitgestoken hand en met een open vizier. Om de kwaliteit van informatievoorziening te verbeteren, en het tijdrovende en foutgevoelige handwerk te reduceren.
