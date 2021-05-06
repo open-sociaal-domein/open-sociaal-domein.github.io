@@ -24,7 +24,7 @@ Wil je ook meedoen, of een Open Api publiceren? Neem dan contact op met [Jarich 
 
 ## De rol van VNG Realisatie
 
-Daar waar mogelijk trekken we graag samen op met VNG Realisatie. Zo volgen we de [Nederlandse API Strategie](https://docs.geostandaarden.nl/api/API-Strategie) en kijken we de best practices af van HaalCentraal en ZGW-Api's. Het liefst zien we dat VNG Realisatie een actief coordinerende rol zou spelen bij de ontwikkeling en het beheer van de Open Sociaal domein standaarden. We begrijpen echter ook dat VNG Realisatie keuzes moet maken waar het haar tijd en aandacht aan besteedt.
+Daar waar mogelijk trekken we graag samen op met VNG Realisatie. Zo volgen we de [Nederlandse API Strategie](https://docs.geostandaarden.nl/api/API-Strategie) en kijken we de best practices af van HaalCentraal en ZGW-Api's. Het liefst zien we dat VNG Realisatie een actief coordinerende rol speelt bij de ontwikkeling en het beheer van de Open Sociaal domein standaarden. We begrijpen echter ook dat VNG Realisatie keuzes moet maken waar het haar tijd en aandacht aan besteedt.
 
 ## Achtergrond initiatief
 
